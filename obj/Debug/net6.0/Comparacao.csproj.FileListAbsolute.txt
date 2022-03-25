@@ -1,0 +1,15 @@
+C:\Users\Daniele\Comparacao\bin\Debug\net6.0\Comparacao.exe
+C:\Users\Daniele\Comparacao\bin\Debug\net6.0\Comparacao.deps.json
+C:\Users\Daniele\Comparacao\bin\Debug\net6.0\Comparacao.runtimeconfig.json
+C:\Users\Daniele\Comparacao\bin\Debug\net6.0\Comparacao.dll
+C:\Users\Daniele\Comparacao\bin\Debug\net6.0\Comparacao.pdb
+C:\Users\Daniele\Comparacao\obj\Debug\net6.0\Comparacao.csproj.AssemblyReference.cache
+C:\Users\Daniele\Comparacao\obj\Debug\net6.0\Comparacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniele\Comparacao\obj\Debug\net6.0\Comparacao.AssemblyInfoInputs.cache
+C:\Users\Daniele\Comparacao\obj\Debug\net6.0\Comparacao.AssemblyInfo.cs
+C:\Users\Daniele\Comparacao\obj\Debug\net6.0\Comparacao.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\Comparacao\obj\Debug\net6.0\Comparacao.dll
+C:\Users\Daniele\Comparacao\obj\Debug\net6.0\refint\Comparacao.dll
+C:\Users\Daniele\Comparacao\obj\Debug\net6.0\Comparacao.pdb
+C:\Users\Daniele\Comparacao\obj\Debug\net6.0\Comparacao.genruntimeconfig.cache
+C:\Users\Daniele\Comparacao\obj\Debug\net6.0\ref\Comparacao.dll
